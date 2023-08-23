@@ -1,0 +1,26 @@
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.aSquare {
+    background-color: #547ef2;
+    padding: 30px;
+    border: 1px solid rgb(219, 214, 214);
+    color: #fcf9f9;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.game {
+    display: flex;
+    flex-direction: row;
+}
+
+.textDisplay {
+    margin-left: 20px;
+    text-align: center;
+}
