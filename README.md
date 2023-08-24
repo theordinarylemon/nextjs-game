@@ -13,7 +13,7 @@ To get started, you’ll need to have Node.js and npm installed on your computer
 <code>npm install</code>
 <br />
 <br />
-# Running the Game
+## Running the Game
 <br />
 Once you have the dependencies installed, you can start the game by running the following command:
 <br />
