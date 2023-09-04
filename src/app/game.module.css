@@ -21,7 +21,17 @@
 }
 
 .textDisplay {
+    display: flex;
+    flex-direction: row;
     margin-left: 20px;
     text-align: center;
     font-weight: 50;
+}
+
+.textDisplay showWinner {
+    font-size: 20px;
+}
+
+.textDisplay gameInfo {
+   font-size: 30px;
 }
