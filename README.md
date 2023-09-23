@@ -6,14 +6,21 @@ To get started, you’ll need to have Node.js and npm installed on your computer
 
 <code>git clone</code>
 <br />
+<br />
 <code>cd [to the exact file path]</code>
+<br />
 <br />
 <code>npm install</code>
 <br />
+<br />
+
 ## Running the Game
+<br />
 Once you have the dependencies installed, you can start the game by running the following command:
 <br />
+<br />
 <code>npm run dev</code>
+<br />
 <br />
 This will start the Next.js development server and you can access the game by going to http://localhost:3000 in your web browser.
 
